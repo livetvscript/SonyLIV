@@ -2,7 +2,7 @@
 SonyLIV Live TV Channels Script 
 
 
-SonyLIV php script only runs on Lunix. You must have Indian IP.
+SonyLIV php script only runs on Linux. You must have Indian IP.
 
 # For Purchase: buylivetvscript@protonmail.com
 
