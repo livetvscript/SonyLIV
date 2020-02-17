@@ -1,5 +1,5 @@
 # SonyLIV PHP Script
-SonyLIV Live TV Channels Script 
+SonyLIV Live TV Channels Script For Sale
 
 
 SonyLIV php script only runs on Linux. You must have Indian IP.
