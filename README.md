@@ -1,4 +1,4 @@
-# SonyLIV PHP Script Now at Flat 50% Off
+# SonyLIV PHP Script
 SonyLIV Live TV Channels Script For Sale. 
 
 
@@ -11,4 +11,4 @@ Purchase the script and run on Indian hosting or Localhost (If you are indian). 
 For localhost: http://localhost/sonyliv.php?c=sonyhd or http://localhost/play.php?c=sonyhd 
 For Server/website: http://demo.com/sonyliv.php?c=sonyhd or http://127.0.0.1/sonyliv.php?c=sonyhd
 
-# Contact Us For More Detailed Guide
+# Contact Us For More Detailed Guide. We can also make custom scripts for any OTT platform. 
